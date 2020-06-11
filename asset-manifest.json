@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/countries-app/static/css/main.32a7bb72.chunk.css",
+    "main.js": "/countries-app/static/js/main.cb865ce0.chunk.js",
+    "main.js.map": "/countries-app/static/js/main.cb865ce0.chunk.js.map",
+    "runtime-main.js": "/countries-app/static/js/runtime-main.22ea0ad9.js",
+    "runtime-main.js.map": "/countries-app/static/js/runtime-main.22ea0ad9.js.map",
+    "static/js/2.8423c81f.chunk.js": "/countries-app/static/js/2.8423c81f.chunk.js",
+    "static/js/2.8423c81f.chunk.js.map": "/countries-app/static/js/2.8423c81f.chunk.js.map",
+    "index.html": "/countries-app/index.html",
+    "precache-manifest.d53cead49e9238fee4ceb0bed03bf080.js": "/countries-app/precache-manifest.d53cead49e9238fee4ceb0bed03bf080.js",
+    "service-worker.js": "/countries-app/service-worker.js",
+    "static/css/main.32a7bb72.chunk.css.map": "/countries-app/static/css/main.32a7bb72.chunk.css.map",
+    "static/js/2.8423c81f.chunk.js.LICENSE.txt": "/countries-app/static/js/2.8423c81f.chunk.js.LICENSE.txt",
+    "static/media/loader.svg": "/countries-app/static/media/loader.d8b3f08b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22ea0ad9.js",
+    "static/js/2.8423c81f.chunk.js",
+    "static/css/main.32a7bb72.chunk.css",
+    "static/js/main.cb865ce0.chunk.js"
+  ]
+}
