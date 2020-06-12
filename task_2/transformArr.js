@@ -24,4 +24,4 @@ array.forEach((elem) => {
  })
  return obj
 }
-console.log(transformArr(users))
+console.log(transformArr(users));
