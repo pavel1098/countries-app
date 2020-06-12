@@ -2,7 +2,7 @@
   "name": "countries-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pavel1098.github.io/countries-app",
+  "homepage": "http://pavel1098.github.io/countries-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
